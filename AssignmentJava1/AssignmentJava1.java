@@ -16,12 +16,12 @@ public class AssignmentJava1 {
         int choice;
         do{ 
             nv.drawLine('_', 100);
-            System.out.println("\n\t\t ___________________________________________________\t\t ___________________");
-            System.out.println("\t\t|                                                   |\t\t|                   |");
-            System.out.println("\t\t|                       MENU                        |\t\t| NGUYEN THANH VINH |");
-            System.out.println("\t\t|___________________________________________________|\t\t| LOP: CP17309      |");
-            System.out.println("\t\t|                                                   |\t\t| MA SO: PS23411    |");
-            System.out.println("\t\t|     1. Nhap danh sach nhan vien.                  |\t\t|___________________|");
+            System.out.println("\n\t\t ___________________________________________________");
+            System.out.println("\t\t|                                                   |");
+            System.out.println("\t\t|                       MENU                        |");
+            System.out.println("\t\t|___________________________________________________|");
+            System.out.println("\t\t|                                                   |");
+            System.out.println("\t\t|     1. Nhap danh sach nhan vien.                  |");
             System.out.println("\t\t|     2. Hien thi danh sach nhan vien.              |");
             System.out.println("\t\t|     3. Tim va hien thi nhan vien theo ma.         |");
             System.out.println("\t\t|     4. Xoa nhan vien theo ma                      |");

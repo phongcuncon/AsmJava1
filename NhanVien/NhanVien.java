@@ -1,9 +1,7 @@
 package NhanVien;
 
-import java.util.Scanner;
 import AssignmentJava1.QuanLyNhanVien;
 public abstract class NhanVien {
-    private final Scanner sc = new Scanner(System.in);
     private QuanLyNhanVien ql = new QuanLyNhanVien();
     private String maNV;
     private String hoTen;
